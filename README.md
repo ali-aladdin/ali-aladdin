@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! <br>I'm a Computer Science student <br>passionate about software engineering. <br>I enjoy building full-stack web apps, <br>mobile applications, <br>and exploring AI-powered solutions.
+Hey there! <br>I'm a Computer Science student <br>passionate about software engineering.
 
 
 ## 🌐 Socials:
