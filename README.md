@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! <br>I'm a Computer Science student <br>passionate about software engineering.
+Hey there! <br>I'm a Computer Science student.
 
 
 ## 🌐 Socials:
